@@ -2,10 +2,10 @@
 
 ## Índice
 1. [Introducción](#introducción)
-    1.1. [Generación de sombras como proyecciones de puntos](#generación-de-sombras-como-proyecciones-de-puntos)
-    1.2. [Curvas y superficies paramétricas](#curvas-y-superficies-paramétricas)
-    1.3. [Problemas propuestos](#problemas-propuestos)
-    1.4. [Pregunta asignada](#pregunta-asignada) 
+    1. [Generación de sombras como proyecciones de puntos](#generación-de-sombras-como-proyecciones-de-puntos)
+    2. [Curvas y superficies paramétricas](#curvas-y-superficies-paramétricas)
+    3. [Problemas propuestos](#problemas-propuestos)
+    4. [Pregunta asignada](#pregunta-asignada) 
 2. [Procesos matemáticos](#procesos-matemáticos)
 3. [Solución](#solución)
 4. [Conclusión](#conclusión)
